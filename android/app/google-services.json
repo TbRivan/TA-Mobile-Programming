@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426485964500",
+    "project_id": "sparaplication",
+    "storage_bucket": "sparaplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426485964500:android:32953874ba3d3046e2a541",
+        "android_client_info": {
+          "package_name": "com.example.spar_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426485964500-0vkrscgdtovrm16etko2afnpmf4b01t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0v8fbvrYrN3RRFeBo1C-fAgYF5_wyQ_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426485964500-0vkrscgdtovrm16etko2afnpmf4b01t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
