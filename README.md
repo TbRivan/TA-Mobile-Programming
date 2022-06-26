@@ -1,7 +1,7 @@
 # TA-Mobile-Programming
 
 Login Page
-![Screenshot_2022-06-08-00-56-17-484_com example spar_application](https://user-images.githubusercontent.com/100903781/172452415-473ecb87-8ad6-41a4-aac2-3664f0879ba3.jpg)
+![Screenshot_2022-06-08-00-56-17-484_com example spar_application](https://user-images.githubusercontent.com/100903781/172452415-473ecb87-8ad6-41a4-aac2-3664f0879ba3.jpg){:height="36px" width="36px"}.
 
 Dashboard Page
 ![Screenshot_2022-06-08-00-56-22-359_com example spar_application](https://user-images.githubusercontent.com/100903781/172452534-68cfa956-9f30-428e-89df-45fc4f0e8331.jpg)
